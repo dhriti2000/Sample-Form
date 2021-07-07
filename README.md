@@ -41,5 +41,8 @@ JsonPowerDB is a high performance, creative and disruptive multi-mode DBMS.
 
 ###### Screenshots:
 
-![LCO MASCOT]{![image](https://user-images.githubusercontent.com/87071247/124754478-e73ae200-df47-11eb-96e3-a5807d0f3450.png)
-}
+![image].(https://user-images.githubusercontent.com/87071247/124754478-e73ae200-df47-11eb-96e3-a5807d0f3450.png)
+
+![image](https://user-images.githubusercontent.com/87071247/124754792-3c76f380-df48-11eb-8ff7-455147c74d21.png)
+
+
