@@ -1,4 +1,4 @@
-# JsonPowerDb
+# JsonPowerDB
 
 ## The project shows about the basics and usage of JsonPowerDB
 
