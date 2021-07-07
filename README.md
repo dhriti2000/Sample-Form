@@ -8,6 +8,7 @@ JsonPowerDB is a high performance, creative and disruptive multi-mode DBMS.
 #### Benefits of JsonPowerDB:
 
 *Schema free - easy to maintain
+
 *Serverless support - fast development - cuts time to market
 *Built around the world's fastest indexing engine PowerIndex
 *Webservices API - Low Dev Cost
