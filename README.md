@@ -39,7 +39,7 @@ JsonPowerDB is a high performance, creative and disruptive multi-mode DBMS.
 
 *Any software application that needs backend DB.
 
-###### Screenshots:
+###### Examples:
 
 ![image](https://user-images.githubusercontent.com/87071247/124755013-7ba54480-df48-11eb-8964-e216f84fa694.png)
 
